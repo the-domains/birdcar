@@ -2,6 +2,7 @@ name: birdcar
 favicon: null
 layout_spectrum: 0.24763
 typography_spectrum: 0.36451
+title: A Grid for Birdcar
 cta:
   domain: null
   bucket: null
