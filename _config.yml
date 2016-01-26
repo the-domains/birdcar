@@ -1,7 +1,7 @@
 name: birdcar
 favicon: null
-layout_spectrum: 0.1232549820560962
-typography_spectrum: 0.0801543197594583
+layout_spectrum: 0.24763
+typography_spectrum: 0.36451
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.4172371313907206
-  lightness: 0.18177357385866344
-  saturation: 0.4660732347983867
-  rhythmicContrast: 0.4464362154249102
+    - '#494949'
+    - '#ff5d73'
+    - '#ffffff'
+    - '#000000'
+    - '#7c7a7a'
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
