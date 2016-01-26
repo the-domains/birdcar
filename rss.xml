@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[A Grid for Birdcar]]></title>
         <description><![CDATA[A Grid for Birdcar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/birdcar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 17:39:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 17:49:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/birdcar/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Grid Blog]]></title>
+            <description><![CDATA[<article><h1>Grid Blog</h1><h2>This is a test of the content posting system.</h2><p>Ocean hatred of faith of transvaluation virtues. Dead insofar right zarathustra spirit derive evil self faithful ideal chaos mountains.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f4f25f4f2c68b79d08881595371ce30a257ca85.jpg"></article>]]></description>
+            <link>https://thegrid.ai/birdcar/grid-blog/index.html</link>
+            <guid isPermaLink="false">2682a844-8f06-473d-ab78-e6b93885ec43</guid>
+            <pubDate>Tue, 26 Jan 2016 17:49:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Testing adding a tweet]]></title>
             <description><![CDATA[<h1>Testing adding a tweet</h1>]]></description>
-            <link>undefinedtesting-adding-a-tweet/index.html</link>
+            <link>https://thegrid.ai/birdcar/testing-adding-a-tweet/index.html</link>
             <guid isPermaLink="false">36abfc71-b108-42de-a24c-63360462c693</guid>
             <pubDate>Tue, 26 Jan 2016 17:39:23 GMT</pubDate>
         </item>
