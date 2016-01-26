@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A Grid for Birdcar]]></title>
+        <description><![CDATA[A Grid for Birdcar]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Jan 2016 17:39:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testing adding a tweet]]></title>
+            <description><![CDATA[<h1>Testing adding a tweet</h1>]]></description>
+            <link>undefinedtesting-adding-a-tweet/index.html</link>
+            <guid isPermaLink="false">36abfc71-b108-42de-a24c-63360462c693</guid>
+            <pubDate>Tue, 26 Jan 2016 17:39:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
