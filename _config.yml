@@ -1,7 +1,7 @@
 name: birdcar
 favicon: null
-layout_spectrum: 0.24763
-typography_spectrum: 0.36451
+layout_spectrum: 0.75941
+typography_spectrum: 0.50313
 title: A Grid for Birdcar
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#e63946'
     - '#457b9d'
     - '#a3a5a6'
-  brandStrength: 0.5
-  lightness: 0.5625
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
