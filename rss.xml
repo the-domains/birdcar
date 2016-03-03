@@ -4,7 +4,7 @@
         <description><![CDATA[A Grid for Birdcar]]></description>
         <link>https://thegrid.ai/birdcar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 20:41:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 20:41:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/birdcar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Breathe Easy, by Jon Runion]]></title>
@@ -12,13 +12,6 @@
             <link>https://jonrunion.bandcamp.com/album/breathe-easy</link>
             <guid isPermaLink="false">febe4ad2-535f-4fb5-9617-b976bdc4f0af</guid>
             <pubDate>Thu, 03 Mar 2016 20:40:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Testing adding a tweet]]></title>
-            <description><![CDATA[<h1>Testing adding a tweet</h1>]]></description>
-            <link>https://thegrid.ai/birdcar/testing-adding-a-tweet/index.html</link>
-            <guid isPermaLink="false">36abfc71-b108-42de-a24c-63360462c693</guid>
-            <pubDate>Tue, 26 Jan 2016 17:39:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
