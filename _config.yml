@@ -1,29 +1,41 @@
-name: Now Spinning
-favicon: null
-layout_spectrum: 0.75941
-typography_spectrum: 0.50313
 title: Bandcamp Discoveries by Nick Cannariato
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0
+  brandStrength: 1
+  lightness: 1
   brandColors:
     - '#dddddd'
     - '#111111'
     - '#aaaaaa'
     - '#fefefe'
     - '#575757'
-  brandStrength: 0
-  lightness: 1
-  saturation: 1
   rhythmicContrast: 0
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Now Spinning
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5125448
+layout_spectrum: 0.7455197
